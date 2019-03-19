@@ -1,0 +1,1 @@
+# mpd_test_contacts_app
